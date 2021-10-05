@@ -1,0 +1,68 @@
+
+body{
+    background-image:url("/img/solros.jpg");
+    
+}
+
+h1{
+    color:darkolivegreen;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 4rem;
+    padding-left: 1rem;
+    font-weight: normal;
+    text-decoration: underline;
+    text-align: center;
+}
+nav{
+    background-image:url("/img/solros.jpg");
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    border:darkolivegreen solid;
+    padding: 1rem;
+    padding-left: 1rem;
+    margin: 0 1rem;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(75, 116, 133);
+    text-align: center;
+}
+span.a{
+    color:rgb(223, 228, 185);
+    display: inline;
+    width: 50px;
+    height: 50px;
+    padding: 1px;
+    border:darkolivegreen solid;  
+    background-color:rgb(75, 116, 133); 
+}
+h4{
+    color:rgb(75, 116, 133);
+    font-size: 1.5rem;
+}
+form{
+    color:rgb(75, 116, 133);
+    font-size: 1.1rem;
+    border:darkolivegreen solid;
+    padding: 1rem;
+    padding-left: 0 1rem;
+    margin: 0 1rem;
+}
+form *{
+    display: block;
+}
+form input{
+    margin-bottom: 1rem;
+}
+
+a{
+    color:darkolivegreen;
+}
+a:hover{
+    color:rgb(75, 116, 133);
+}
+q{
+    color:rgb(223, 228, 185);
+    margin: 2rem;
+    font-family:'Times New Roman', Times, serif;
+}
